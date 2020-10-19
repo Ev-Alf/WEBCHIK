@@ -1,0 +1,28 @@
+.title{
+    text-align: center;
+    font-size:20px;
+    width: 100px;
+    border-bottom: 5px;
+    border-color: red;
+    cursor:pointer;
+    outline-color:red;
+    outline:outset;
+border-bottom: 1px solid #A4a195;
+   
+    
+    
+}
+.wrapper{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    min-height: 100vh;
+}
+.accordion {
+    max-width: 300px;
+    box-shadow: 0 0 12px 4px rgba(0,0,0,5); 
+}
+.item{
+    position: relative;
+}
